@@ -8,7 +8,14 @@ redirect_from:
 ---
  
   
-Exampl:       editing a markdown file for a talk
-![Editing a markdown file for a talk](https://ngochuytruong.github.io/academic/images/picture2.png)
+Research interests:
+---
+- Applied Mathematics
+- Combinatorics
+- Analysis
+- Graph Theory
+- Discrete modulus
+- 
+![Picture](https://ngochuytruong.github.io/academic/images/picture2.png)
 
 
