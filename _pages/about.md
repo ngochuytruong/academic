@@ -9,6 +9,6 @@ redirect_from:
  
   
 Exampl:       editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/picture2.png)
+![Editing a markdown file for a talk](https://ngochuytruong.github.io/academic/images/picture2.png)
 
 
