@@ -12,8 +12,8 @@ title                    : "Huy Truong KSU"
 title_separator          : "-"
 name                     : &name "Huy Truong"
 description              : &description "personal description"
-url                      : https://ngochuytruong.github.io/academic # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://ngochuytruong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/academic" # the subpath of your site, e.g. "/blog"
 repository               : "ngochuytruong/academic"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
