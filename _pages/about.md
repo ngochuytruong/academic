@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-Example:      editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+ 
+  
+Exampl:       editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/picture2.png)
 
 
