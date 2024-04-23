@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper studies spanning tree modulus.'
 date: 2023-06-28
-venue: ''
+#venue: ''
 paperurl: 'https://arxiv.org/abs/2306.15984'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
