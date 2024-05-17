@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 
-[More information here](https://www.math.ksu.edu/research/centers-groups/node-group/)
 
 
